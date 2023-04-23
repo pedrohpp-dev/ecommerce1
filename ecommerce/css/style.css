@@ -2541,7 +2541,7 @@ ul {
   right: -20%;
   bottom: 0;
   padding: 35px 80px;
-  background-color: #fff;
+  background-color: transparent;
 }
 
 @media (max-width: 991px) {
